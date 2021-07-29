@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+*{
+    font-family: 'Mulish', sans-serif;
+  }
+  
+  .nav{
+    background-color: white !important;
+  }
+  
+   .anch{
+    font-size: 1.3rem;
+  }
+  .anch:hover{
+    color:rgb(71, 71, 253);
+  }
+  .active_main{
+      font-weight: bold;
+      border-bottom: 1px solid gray;
+  }
+  /*
+  @media(max-width:991px){
+    .navbar-brand{
+      font-size: 1.5rem;
+    }
+  }  */
+
+  /* Home page  */
+  .brand-name{
+    color: blue; 
+  }
+.btn-get-started{
+    text-decoration: none;
+    background-color: white;
+    color: blue;
+    border: 0.2rem solid blue;
+    border-radius: 10rem;
+    width: 4rem;
+    height: 2rem;
+    font-weight: bold;
+}
+.btn-get-started:hover{
+    background-color: blue;
+    font-weight: bold;
+    color: white;
+}
+#header{
+    height: 80vh;
+    width: 100%;
+}
+.header-img{
+    /* padding-left: 8rem; */
+    animation: bouncing 1.5s ease 0s infinite alternate both;
+    transition: margin 2s;
+}
+@keyframes bouncing {
+    0%{
+        margin-top: 50px;
+    }
+    100%{
+        margin-top: 10px;
+    }
+}
+
+
+/* footer design  */
+footer{
+    position: fixed;
+    height: 3rem;
+    line-height: 3rem;
+    color: white;
+    left: 0px;
+    bottom: 0px;
+    height: 3rem;
+}
+  
