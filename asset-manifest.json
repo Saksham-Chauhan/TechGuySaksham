@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/TechGuySaksham/static/css/main.7390ce11.chunk.css",
+    "main.js": "/TechGuySaksham/static/js/main.b6efe5e1.chunk.js",
+    "main.js.map": "/TechGuySaksham/static/js/main.b6efe5e1.chunk.js.map",
+    "runtime-main.js": "/TechGuySaksham/static/js/runtime-main.4b011728.js",
+    "runtime-main.js.map": "/TechGuySaksham/static/js/runtime-main.4b011728.js.map",
+    "static/css/2.4be38407.chunk.css": "/TechGuySaksham/static/css/2.4be38407.chunk.css",
+    "static/js/2.d3053a6c.chunk.js": "/TechGuySaksham/static/js/2.d3053a6c.chunk.js",
+    "static/js/2.d3053a6c.chunk.js.map": "/TechGuySaksham/static/js/2.d3053a6c.chunk.js.map",
+    "index.html": "/TechGuySaksham/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/TechGuySaksham/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.7390ce11.chunk.css.map": "/TechGuySaksham/static/css/main.7390ce11.chunk.css.map",
+    "static/js/2.d3053a6c.chunk.js.LICENSE.txt": "/TechGuySaksham/static/js/2.d3053a6c.chunk.js.LICENSE.txt",
+    "static/media/about.ee3aa36d.jpg": "/TechGuySaksham/static/media/about.ee3aa36d.jpg",
+    "static/media/omg.672501c2.webp": "/TechGuySaksham/static/media/omg.672501c2.webp",
+    "static/media/ser1.b1518e23.webp": "/TechGuySaksham/static/media/ser1.b1518e23.webp",
+    "static/media/ser2.6f144552.webp": "/TechGuySaksham/static/media/ser2.6f144552.webp",
+    "static/media/ser3.d0a302fb.jpg": "/TechGuySaksham/static/media/ser3.d0a302fb.jpg",
+    "static/media/ser4.3b8d7959.jpg": "/TechGuySaksham/static/media/ser4.3b8d7959.jpg",
+    "static/media/ser5.0c544c0c.webp": "/TechGuySaksham/static/media/ser5.0c544c0c.webp",
+    "static/media/ser6.7683ef92.jpg": "/TechGuySaksham/static/media/ser6.7683ef92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b011728.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.d3053a6c.chunk.js",
+    "static/css/main.7390ce11.chunk.css",
+    "static/js/main.b6efe5e1.chunk.js"
+  ]
+}
